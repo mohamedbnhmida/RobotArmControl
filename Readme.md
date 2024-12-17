@@ -18,13 +18,7 @@ This project includes a Flutter mobile application and an Arduino sketch to cont
 	•	Parses and executes movements for the robotic arm.
 	•	Servo motor control for precise movements.
 
-📱 App UI Preview
-
-	1.	Left Image:
-	•	Scan and connect to a Bluetooth device.
-	2.	Right Image:
-	•	Control the robotic arm using sliders for precise angles.
-
+ 
 🛠️ Requirements
 
 Hardware:
@@ -43,8 +37,8 @@ Software:
 	1.	Install Flutter SDK: Flutter Installation Guide
 	2.	Clone the repository:
 
-git clone https://github.com/yourusername/flutter-robot-arm.git
-cd flutter-robot-arm
+git clone https://github.com/mohamedbnhmida/RobotArmControl.git
+cd flutter
 
 
 	3.	Install dependencies:
