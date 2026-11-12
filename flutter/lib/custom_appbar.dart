@@ -3,7 +3,7 @@ import 'package:sizer/sizer.dart';
 
 import 'custom_toolbarShape.dart';
 
-class CustomAppBar extends StatelessWidget with PreferredSizeWidget {
+class CustomAppBar extends StatelessWidget implements PreferredSizeWidget {
   late String title;
   CustomAppBar({required this.title});
   @override

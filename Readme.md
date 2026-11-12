@@ -1,4 +1,14 @@
- 
+<img src="docs/banner.png" alt="Robot Arm Control" width="100%">
+
+**▶ Live demo: [mohamedbenhmida-robotarm.web.app](https://mohamedbenhmida-robotarm.web.app)**
+
+> The web demo shows the interface only: Bluetooth / device control needs the Android app and the hardware.
+
+<p align="center">
+  <img src="docs/screenshots/robotarm_desktop.png" alt="Robot Arm Control on desktop" width="70%">
+  <img src="docs/screenshots/robotarm_mobile.png" alt="Robot Arm Control on mobile" width="24%">
+</p>
+
 🤖 Bluetooth Robot Arm Control App
 
 This project includes a Flutter mobile application and an Arduino sketch to control a robotic arm via Bluetooth. The Flutter app provides an intuitive interface to move and control various axes (Base, Pince, Left, Right) of the robotic arm.
